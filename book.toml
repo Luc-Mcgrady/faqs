@@ -23,7 +23,7 @@ exclude = [ 'quora\.com', 'reddit.com', 'superuser.com', 'github.com/open-spaced
 
 [output.html.redirect]
 # redirect deleted pages to new pages to preserve legacy links
-"note-types-with-strange-names.html" = "removing-duplicate-note-types.html"
+"note-types-with-strange-names.html" = "https://docs.ankiweb.net/faqs/removing-duplicate-note-types"
 
 "/index.html" = "https://docs.ankiweb.net/faqs/intro"
 "/can-i-reveal-parts-of-a-card-one-at-a-time.html" = "https://docs.ankiweb.net/faqs/can-i-reveal-parts-of-a-card-one-at-a-time" 
